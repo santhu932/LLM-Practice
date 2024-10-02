@@ -1,2 +1,2 @@
-# LLM-Projects
-Building something interesting using LLMs
+# LLM-Practice-Notebook
+
